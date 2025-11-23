@@ -63,7 +63,7 @@ Arul_Santoshi-Activity15-Repo/
 - [x] PDF output generated successfully
 - [x] Comprehensive documentation finalized
 - [x] Pull requests created and merged
-- [] All issues closed
+- [x] All issues closed
 
 ### Project Timeline
 - **Week 1:** Repository setup, data acquisition, initial analysis
@@ -197,4 +197,4 @@ This project is submitted as coursework for STAT 184 at Penn State University. A
 
 **Repository Link:** https://github.com/YOUR-USERNAME/Arul_Santoshi-Activity15-Repo  
 **Last Updated:** November 22, 2024  
-**Status:** In progress
+**Status:** Complete
