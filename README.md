@@ -179,8 +179,8 @@ The optimal square cutout size is approximately **6 inches**, yielding a maximum
 **Arul Santoshi**  
 Penn State University  
 Data Science  
-STAT 184
-Email: ajs10266@psu.edu
+STAT 184 - Intro to R
+Email: ajs10266@psu.edu  
 GitHub: Arul-Santoshi
 
 ## Acknowledgments
